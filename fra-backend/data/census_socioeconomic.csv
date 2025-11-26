@@ -1,0 +1,18 @@
+village_id,name,nadu,population,households,literacy_pct,sex_ratio
+V001,Aathinadu,Aathinadu,709,163,58,1015
+V002,Kaliyur,Aathinadu,1720,428,58,1010
+V003,Keelapatti,Thenpuranadu,1692,464,56,1005
+V004,Kovilpatti (Hill),Kombai Nadu,849,203,55,1013
+V005,Manalodai,Vannadu,2813,750,54,1002
+V006,Melapatti,Thenpuranadu,938,258,56,1010
+V007,Moolakadu,Thenpuranadu,425,105,56,1010
+V008,Murungaiyur,Kombai Nadu,3070,917,55,1008
+V009,Nadupatti,Kombai Nadu,5177,1200,55,1008
+V010,Pudur (Hill),Aathinadu,797,179,58,1015
+V011,Sembulchanpatti,Vannadu,52,10,54,1007
+V012,Sengattuppatti,Thenpuranadu,0,0,56,1010
+V013,Sirumugai (Hill),Aathinadu,1472,417,58,1010
+V014,Sukkalampatti Kombai,Kombai Nadu,2418,611,55,1008
+V015,Thenpuranadu,Thenpuranadu,3634,899,56,1005
+V016,Thonur,Vannadu,3256,702,54,1002
+V017,Vannadu,Vannadu,4191,1000,54,1002

@@ -1,0 +1,328 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.616559,
+                    11.015115
+                ]
+            },
+            "properties": {
+                "village_id": "V001",
+                "name": "Aathinadu",
+                "nadu": "Aathinadu",
+                "population": 709,
+                "households": 163,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.544752,
+                    11.591954
+                ]
+            },
+            "properties": {
+                "village_id": "V002",
+                "name": "Kaliyur",
+                "nadu": "Aathinadu",
+                "population": 1720,
+                "households": 428,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.634698,
+                    11.443958
+                ]
+            },
+            "properties": {
+                "village_id": "V003",
+                "name": "Keelapatti",
+                "nadu": "Thenpuranadu",
+                "population": 1692,
+                "households": 464,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "village_id": "V004",
+                "name": "Kovilpatti (Hill)",
+                "nadu": "Kombai Nadu",
+                "population": 849,
+                "households": 203,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.470882,
+                    11.234661
+                ]
+            },
+            "properties": {
+                "village_id": "V005",
+                "name": "Manalodai",
+                "nadu": "Vannadu",
+                "population": 2813,
+                "households": 750,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.659776,
+                    11.699999
+                ]
+            },
+            "properties": {
+                "village_id": "V006",
+                "name": "Melapatti",
+                "nadu": "Thenpuranadu",
+                "population": 938,
+                "households": 258,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.613812,
+                    11.641413
+                ]
+            },
+            "properties": {
+                "village_id": "V007",
+                "name": "Moolakadu",
+                "nadu": "Thenpuranadu",
+                "population": 425,
+                "households": 105,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.619154,
+                    11.554762
+                ]
+            },
+            "properties": {
+                "village_id": "V008",
+                "name": "Murungaiyur",
+                "nadu": "Kombai Nadu",
+                "population": 3070,
+                "households": 917,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.478155,
+                    11.113913
+                ]
+            },
+            "properties": {
+                "village_id": "V009",
+                "name": "Nadupatti",
+                "nadu": "Kombai Nadu",
+                "population": 5177,
+                "households": 1200,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.547218,
+                    11.319391
+                ]
+            },
+            "properties": {
+                "village_id": "V010",
+                "name": "Pudur (Hill)",
+                "nadu": "Aathinadu",
+                "population": 797,
+                "households": 179,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.530162,
+                    11.000001
+                ]
+            },
+            "properties": {
+                "village_id": "V011",
+                "name": "Sembulchanpatti",
+                "nadu": "Vannadu",
+                "population": 52,
+                "households": 10,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.649306,
+                    11.083441
+                ]
+            },
+            "properties": {
+                "village_id": "V012",
+                "name": "Sengattuppatti",
+                "nadu": "Thenpuranadu",
+                "population": 0,
+                "households": 0,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58868,
+                    11.482764
+                ]
+            },
+            "properties": {
+                "village_id": "V013",
+                "name": "Sirumugai (Hill)",
+                "nadu": "Aathinadu",
+                "population": 1472,
+                "households": 417,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.627018,
+                    11.529371
+                ]
+            },
+            "properties": {
+                "village_id": "V014",
+                "name": "Sukkalampatti Kombai",
+                "nadu": "Kombai Nadu",
+                "population": 2418,
+                "households": 611,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.545724,
+                    11.697591
+                ]
+            },
+            "properties": {
+                "village_id": "V015",
+                "name": "Thenpuranadu",
+                "nadu": "Thenpuranadu",
+                "population": 3634,
+                "households": 899,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6814,
+                    11.2655
+                ]
+            },
+            "properties": {
+                "village_id": "V016",
+                "name": "Thonur",
+                "nadu": "Vannadu",
+                "population": 3256,
+                "households": 702,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.569548,
+                    11.246694
+                ]
+            },
+            "properties": {
+                "village_id": "V017",
+                "name": "Vannadu",
+                "nadu": "Vannadu",
+                "population": 4191,
+                "households": 1000,
+                "literacy_pct": null,
+                "sex_ratio": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+village_id,name,nadu,forest_cover_pct,ndvi_mean,water_access,health_score,livelihood_score,education_score
+V001,Aathinadu,Aathinadu,71.92,0.241,ok,40.4,31.7,31.3
+V002,Kaliyur,Aathinadu,45.11,0.738,poor,79.3,54.0,75.6
+V003,Keelapatti,Thenpuranadu,78.69,0.611,poor,73.2,41.8,57.3
+V004,Kovilpatti (Hill),Kombai Nadu,65.79,0.693,ok,75.3,52.5,36.3
+V005,Manalodai,Vannadu,17.53,0.43,poor,79.0,76.9,60.1
+V006,Melapatti,Thenpuranadu,88.05,0.831,ok,62.9,42.9,35.7
+V007,Moolakadu,Thenpuranadu,70.89,0.781,ok,68.4,33.2,73.7
+V008,Murungaiyur,Kombai Nadu,72.89,0.706,good,47.0,45.5,56.2
+V009,Nadupatti,Kombai Nadu,20.25,0.327,good,45.7,46.1,51.7
+V010,Pudur (Hill),Aathinadu,46.03,0.503,ok,73.4,66.4,46.1
+V011,Sembulchanpatti,Vannadu,39.66,0.228,good,63.6,60.6,69.1
+V012,Sengattuppatti,Thenpuranadu,84.14,0.3,good,68.3,73.1,50.3
+V013,Sirumugai (Hill),Aathinadu,61.51,0.644,ok,78.2,66.5,31.1
+V014,Sukkalampatti Kombai,Kombai Nadu,75.82,0.684,poor,71.7,52.4,33.3
+V015,Thenpuranadu,Thenpuranadu,45.47,0.829,ok,67.7,74.8,92.3
+V016,Thonur,Vannadu,28.18,0.412,poor,68.0,39.2,88.6
+V017,Vannadu,Vannadu,54.37,0.441,poor,55.2,31.2,74.0

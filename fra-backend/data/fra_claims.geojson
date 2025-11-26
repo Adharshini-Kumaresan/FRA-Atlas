@@ -1,0 +1,1445 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.616559,
+                    11.015115
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-2961",
+                "type": "IFR",
+                "applicant": "Rani Thuraiyur",
+                "village_id": "V001",
+                "area_acres": 6.078783,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.616559,
+                    11.015115
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-2599",
+                "type": "IFR",
+                "applicant": "Arun Banana",
+                "village_id": "V001",
+                "area_acres": 3.410049,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.616559,
+                    11.015115
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-9918",
+                "type": "IFR",
+                "applicant": "Pavithra Forest",
+                "village_id": "V001",
+                "area_acres": 9.686516,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.616559,
+                    11.015115
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-6635",
+                "type": "CR",
+                "applicant": "Kannan Hillman",
+                "village_id": "V001",
+                "area_acres": 4.843258,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.616559,
+                    11.015115
+                ]
+            },
+            "properties": {
+                "claim_id": null,
+                "type": "CR",
+                "applicant": null,
+                "village_id": "V001",
+                "area_acres": 6.671835000000001,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-3724",
+                "type": "CFRR",
+                "applicant": "Rani Hillman",
+                "village_id": "V004",
+                "area_acres": 6.671835000000001,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-4320",
+                "type": "CFRR",
+                "applicant": "Lakshmi Thuraiyur",
+                "village_id": "V004",
+                "area_acres": 8.1791755,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-3983",
+                "type": "IFR",
+                "applicant": "Lakshmi Banana",
+                "village_id": "V004",
+                "area_acres": 4.3737585,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-5078",
+                "type": "IFR",
+                "applicant": "Kannan Hillman",
+                "village_id": "V004",
+                "area_acres": 5.1644945,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-5011",
+                "type": "IFR",
+                "applicant": "Arun Pacha",
+                "village_id": "V004",
+                "area_acres": 2.767576,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-4301",
+                "type": "CR",
+                "applicant": "Kannan Pachamalai",
+                "village_id": "V004",
+                "area_acres": 1.7050245,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-8502",
+                "type": "CFRR",
+                "applicant": "Suresh Hillman",
+                "village_id": "V004",
+                "area_acres": 7.2401765000000005,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-2972",
+                "type": "CFRR",
+                "applicant": "Muthu Thuraiyur",
+                "village_id": "V004",
+                "area_acres": 10.4525415,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.544752,
+                    11.591954
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-7909",
+                "type": "CFRR",
+                "applicant": "Muthu Banana",
+                "village_id": "V002",
+                "area_acres": 4.4726005,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.544752,
+                    11.591954
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-5612",
+                "type": "CFRR",
+                "applicant": "Raju Hillman",
+                "village_id": "V002",
+                "area_acres": 4.3243375,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.544752,
+                    11.591954
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-5371",
+                "type": "IFR",
+                "applicant": "Lakshmi Pacha",
+                "village_id": "V002",
+                "area_acres": 6.227046,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.544752,
+                    11.591954
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-1085",
+                "type": "CR",
+                "applicant": "Malar Forest",
+                "village_id": "V002",
+                "area_acres": 10.674936,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.544752,
+                    11.591954
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-2474",
+                "type": "CFRR",
+                "applicant": "Rani Tribal",
+                "village_id": "V002",
+                "area_acres": 5.3621785,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.544752,
+                    11.591954
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-6740",
+                "type": "CFRR",
+                "applicant": "Rani Thuraiyur",
+                "village_id": "V002",
+                "area_acres": 3.706575,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.634698,
+                    11.443958
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-5634",
+                "type": "IFR",
+                "applicant": "Kannan Malayali",
+                "village_id": "V003",
+                "area_acres": 7.0424925,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.634698,
+                    11.443958
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-7291",
+                "type": "CFRR",
+                "applicant": "Muthu Pachamalai",
+                "village_id": "V003",
+                "area_acres": 6.498861499999999,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.627018,
+                    11.529371
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-8650",
+                "type": "CR",
+                "applicant": "Lakshmi Kombai",
+                "village_id": "V014",
+                "area_acres": 4.9421,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.627018,
+                    11.529371
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-9013",
+                "type": "CR",
+                "applicant": "Rani Banana",
+                "village_id": "V014",
+                "area_acres": 9.019332499999999,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.627018,
+                    11.529371
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-4266",
+                "type": "CFRR",
+                "applicant": "Raju Thuraiyur",
+                "village_id": "V014",
+                "area_acres": 9.093464,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.627018,
+                    11.529371
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-2831",
+                "type": "IFR",
+                "applicant": "Selvi Nadu",
+                "village_id": "V014",
+                "area_acres": 4.1019429999999995,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-3724",
+                "type": "CFRR",
+                "applicant": "Rani Hillman",
+                "village_id": "V004",
+                "area_acres": 6.671835000000001,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-4320",
+                "type": "CFRR",
+                "applicant": "Lakshmi Thuraiyur",
+                "village_id": "V004",
+                "area_acres": 8.1791755,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-3983",
+                "type": "IFR",
+                "applicant": "Lakshmi Banana",
+                "village_id": "V004",
+                "area_acres": 4.3737585,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-5078",
+                "type": "IFR",
+                "applicant": "Kannan Hillman",
+                "village_id": "V004",
+                "area_acres": 5.1644945,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-5011",
+                "type": "IFR",
+                "applicant": "Arun Pacha",
+                "village_id": "V004",
+                "area_acres": 2.767576,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-4301",
+                "type": "CR",
+                "applicant": "Kannan Pachamalai",
+                "village_id": "V004",
+                "area_acres": 1.7050245,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-8502",
+                "type": "CFRR",
+                "applicant": "Suresh Hillman",
+                "village_id": "V004",
+                "area_acres": 7.2401765000000005,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600146,
+                    11.539434
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-2972",
+                "type": "CFRR",
+                "applicant": "Muthu Thuraiyur",
+                "village_id": "V004",
+                "area_acres": 10.4525415,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.470882,
+                    11.234661
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-7566",
+                "type": "CR",
+                "applicant": "Rani Malayali",
+                "village_id": "V005",
+                "area_acres": 10.427831,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.470882,
+                    11.234661
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-8801",
+                "type": "CFRR",
+                "applicant": "Rani Forest",
+                "village_id": "V005",
+                "area_acres": 10.773778,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.470882,
+                    11.234661
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-8988",
+                "type": "CR",
+                "applicant": "Lakshmi Forest",
+                "village_id": "V005",
+                "area_acres": 2.1251029999999997,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.659776,
+                    11.699999
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-6799",
+                "type": "CR",
+                "applicant": "Kannan Nadu",
+                "village_id": "V006",
+                "area_acres": 8.105044,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.659776,
+                    11.699999
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-1281",
+                "type": "CFRR",
+                "applicant": "Kannan Hillman",
+                "village_id": "V006",
+                "area_acres": 12.206987000000002,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.613812,
+                    11.641413
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-9591",
+                "type": "IFR",
+                "applicant": "Arun Banana",
+                "village_id": "V007",
+                "area_acres": 8.450991,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.613812,
+                    11.641413
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-3223",
+                "type": "CR",
+                "applicant": "Kannan Banana",
+                "village_id": "V007",
+                "area_acres": 9.093464,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.613812,
+                    11.641413
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-1245",
+                "type": "CR",
+                "applicant": "Rani Thuraiyur",
+                "village_id": "V007",
+                "area_acres": 3.657154,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.613812,
+                    11.641413
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-4444",
+                "type": "CR",
+                "applicant": "Suresh Banana",
+                "village_id": "V007",
+                "area_acres": 11.267987999999999,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.619154,
+                    11.554762
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-6860",
+                "type": "IFR",
+                "applicant": "Muthu Tribal",
+                "village_id": "V008",
+                "area_acres": 9.5135425,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.619154,
+                    11.554762
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-5630",
+                "type": "CR",
+                "applicant": "Suresh Malayali",
+                "village_id": "V008",
+                "area_acres": 6.325888,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.619154,
+                    11.554762
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-3209",
+                "type": "CR",
+                "applicant": "Muthu Banana",
+                "village_id": "V008",
+                "area_acres": 1.3096565,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.619154,
+                    11.554762
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-9886",
+                "type": "CFRR",
+                "applicant": "Selvi Hillman",
+                "village_id": "V008",
+                "area_acres": 12.182276499999999,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.619154,
+                    11.554762
+                ]
+            },
+            "properties": {
+                "claim_id": null,
+                "type": "CFRR",
+                "applicant": null,
+                "village_id": "V008",
+                "area_acres": 4.9421,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.619154,
+                    11.554762
+                ]
+            },
+            "properties": {
+                "claim_id": null,
+                "type": "CFRR",
+                "applicant": null,
+                "village_id": "V008",
+                "area_acres": 4.9421,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.627018,
+                    11.529371
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-8650",
+                "type": "CR",
+                "applicant": "Lakshmi Kombai",
+                "village_id": "V014",
+                "area_acres": 4.9421,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.627018,
+                    11.529371
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-9013",
+                "type": "CR",
+                "applicant": "Rani Banana",
+                "village_id": "V014",
+                "area_acres": 9.019332499999999,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.627018,
+                    11.529371
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-4266",
+                "type": "CFRR",
+                "applicant": "Raju Thuraiyur",
+                "village_id": "V014",
+                "area_acres": 9.093464,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.627018,
+                    11.529371
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-2831",
+                "type": "IFR",
+                "applicant": "Selvi Nadu",
+                "village_id": "V014",
+                "area_acres": 4.1019429999999995,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.627018,
+                    11.529371
+                ]
+            },
+            "properties": {
+                "claim_id": null,
+                "type": "IFR",
+                "applicant": null,
+                "village_id": "V014",
+                "area_acres": 9.612384500000001,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.627018,
+                    11.529371
+                ]
+            },
+            "properties": {
+                "claim_id": null,
+                "type": "IFR",
+                "applicant": null,
+                "village_id": "V014",
+                "area_acres": 9.612384500000001,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.627018,
+                    11.529371
+                ]
+            },
+            "properties": {
+                "claim_id": null,
+                "type": "IFR",
+                "applicant": null,
+                "village_id": "V014",
+                "area_acres": 9.612384500000001,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.478155,
+                    11.113913
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-2565",
+                "type": "IFR",
+                "applicant": "Rani Forest",
+                "village_id": "V009",
+                "area_acres": 9.612384500000001,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.478155,
+                    11.113913
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-4551",
+                "type": "IFR",
+                "applicant": "Pavithra Pachamalai",
+                "village_id": "V009",
+                "area_acres": 5.4610205,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.547218,
+                    11.319391
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-7901",
+                "type": "IFR",
+                "applicant": "Arun Malayali",
+                "village_id": "V010",
+                "area_acres": 10.032462999999998,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.547218,
+                    11.319391
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-1098",
+                "type": "CFRR",
+                "applicant": "Muthu Forest",
+                "village_id": "V010",
+                "area_acres": 8.722806499999999,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.530162,
+                    11.000001
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-2997",
+                "type": "CR",
+                "applicant": "Malar Kombai",
+                "village_id": "V011",
+                "area_acres": 2.866418,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.530162,
+                    11.000001
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-6236",
+                "type": "CR",
+                "applicant": "Raju Tribal",
+                "village_id": "V011",
+                "area_acres": 6.029362,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.530162,
+                    11.000001
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-1517",
+                "type": "CFRR",
+                "applicant": "Rani Tribal",
+                "village_id": "V011",
+                "area_acres": 6.325888,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.649306,
+                    11.083441
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-4328",
+                "type": "CFRR",
+                "applicant": "Pavithra Tribal",
+                "village_id": "V012",
+                "area_acres": 5.386889,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.649306,
+                    11.083441
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-7136",
+                "type": "CR",
+                "applicant": "Arun Thuraiyur",
+                "village_id": "V012",
+                "area_acres": 11.712777,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58868,
+                    11.482764
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-2727",
+                "type": "IFR",
+                "applicant": "Rani Tribal",
+                "village_id": "V013",
+                "area_acres": 9.291148,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58868,
+                    11.482764
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-5349",
+                "type": "CFRR",
+                "applicant": "Kannan Kombai",
+                "village_id": "V013",
+                "area_acres": 10.081884,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58868,
+                    11.482764
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-3240",
+                "type": "IFR",
+                "applicant": "Lakshmi Kombai",
+                "village_id": "V013",
+                "area_acres": 10.3042785,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58868,
+                    11.482764
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-1436",
+                "type": "CFRR",
+                "applicant": "Suresh Hillman",
+                "village_id": "V013",
+                "area_acres": 11.9351715,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.627018,
+                    11.529371
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-8650",
+                "type": "CR",
+                "applicant": "Lakshmi Kombai",
+                "village_id": "V014",
+                "area_acres": 4.9421,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.627018,
+                    11.529371
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-9013",
+                "type": "CR",
+                "applicant": "Rani Banana",
+                "village_id": "V014",
+                "area_acres": 9.019332499999999,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.627018,
+                    11.529371
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-4266",
+                "type": "CFRR",
+                "applicant": "Raju Thuraiyur",
+                "village_id": "V014",
+                "area_acres": 9.093464,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.627018,
+                    11.529371
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-2831",
+                "type": "IFR",
+                "applicant": "Selvi Nadu",
+                "village_id": "V014",
+                "area_acres": 4.1019429999999995,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.545724,
+                    11.697591
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-9203",
+                "type": "CR",
+                "applicant": "Lakshmi Pachamalai",
+                "village_id": "V015",
+                "area_acres": 5.386889,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.545724,
+                    11.697591
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-5930",
+                "type": "IFR",
+                "applicant": "Muthu Tribal",
+                "village_id": "V015",
+                "area_acres": 1.4084984999999999,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.545724,
+                    11.697591
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-6967",
+                "type": "CR",
+                "applicant": "Rani Pachamalai",
+                "village_id": "V015",
+                "area_acres": 3.755996,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6814,
+                    11.2655
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-5765",
+                "type": "IFR",
+                "applicant": "Selvi Thuraiyur",
+                "village_id": "V016",
+                "area_acres": 9.7112265,
+                "status": "Rejected"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6814,
+                    11.2655
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-6970",
+                "type": "CR",
+                "applicant": "Arun Pacha",
+                "village_id": "V016",
+                "area_acres": 7.709676,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6814,
+                    11.2655
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-4711",
+                "type": "CFRR",
+                "applicant": "Kannan Kombai",
+                "village_id": "V016",
+                "area_acres": 8.796938,
+                "status": "Granted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.569548,
+                    11.246694
+                ]
+            },
+            "properties": {
+                "claim_id": "FOR-9367",
+                "type": "IFR",
+                "applicant": "Muthu Forest",
+                "village_id": "V017",
+                "area_acres": 7.487281499999999,
+                "status": "Pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.569548,
+                    11.246694
+                ]
+            },
+            "properties": {
+                "claim_id": "ANN-5350",
+                "type": "CR",
+                "applicant": "Kannan Nadu",
+                "village_id": "V017",
+                "area_acres": 11.119724999999999,
+                "status": "Granted"
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "Scheme": "Pradhan Mantri Van Dhan Yojana (PMVDY)",
+    "Eligibility": "Tribal SHGs / forest-dwelling communities registered under Van Dhan Kendras",
+    "Source Ministry": "Ministry of Tribal Affairs (MoTA)",
+    "Benefits": "Skill training, working capital, tools/machinery, market linkages for forest produce",
+    "DSS Rule": "If village economy depends on MFP collection → Suggest PMVDY support"
+  },
+  {
+    "Scheme": "Eklavya Model Residential Schools (EMRS)",
+    "Eligibility": "ST children, classes 6–12, from tribal-dominated blocks",
+    "Source Ministry": "Ministry of Tribal Affairs (MoTA)",
+    "Benefits": "Free schooling, hostel, meals, uniforms for ST children",
+    "DSS Rule": "If literacy < 50% OR no secondary school nearby → Suggest EMRS admission"
+  },
+  {
+    "Scheme": "National Fellowship & Scholarship for ST Students",
+    "Eligibility": "ST certificate, family income ≤ ₹6 lakh, pursuing higher education",
+    "Source Ministry": "Ministry of Tribal Affairs (MoTA)",
+    "Benefits": "Scholarship covers tuition fees, maintenance allowance, contingency grant",
+    "DSS Rule": "If student eligible for UG/PG/PhD and ST → Suggest Scholarship"
+  },
+  {
+    "Scheme": "Pre-Matric & Post-Matric ST Scholarships",
+    "Eligibility": "ST students, income ≤ ₹2.5 lakh, enrolled in Class 9 onwards",
+    "Source Ministry": "MoTA / State Tribal Welfare Departments",
+    "Benefits": "Full fee reimbursement, books, hostel allowance",
+    "DSS Rule": "If ST student in school/college and income ≤ threshold → Suggest Scholarship"
+  },
+  {
+    "Scheme": "Stand-Up India Scheme",
+    "Eligibility": "SC/ST or women entrepreneur, loan ₹10L–₹1Cr, greenfield enterprise",
+    "Source Ministry": "Ministry of Finance",
+    "Benefits": "Bank loan support for starting enterprises, credit + handholding support",
+    "DSS Rule": "If ST individual wants entrepreneurship → Suggest Stand-Up India loan"
+  },
+  {
+    "Scheme": "PM JANMAN (Particularly Vulnerable Tribal Groups)",
+    "Eligibility": "Members of PVTGs (e.g., Toda, Chenchu, Birhor)",
+    "Source Ministry": "Ministry of Tribal Affairs (MoTA)",
+    "Benefits": "Housing, education, health, livelihood, water, sanitation support",
+    "DSS Rule": "If village classified as PVTG → Suggest PM JANMAN package"
+  },
+  {
+    "Scheme": "Forest Rights Act (FRA) Benefits",
+    "Eligibility": "ST/OTFD, proof of habitation before 2005",
+    "Source Ministry": "MoTA / MoEFCC",
+    "Benefits": "Legal title to IFR/CR/CFR land, access to forest resources",
+    "DSS Rule": "If FRA claim granted → Recognize rights + enable access to schemes"
+  },
+  {
+    "Scheme": "Tribal Sub-Plan (TSP) / ST Component (STC)",
+    "Eligibility": "All ST households",
+    "Source Ministry": "All ministries via MoTA coordination",
+    "Benefits": "Special allocation of funds for tribal welfare across ministries",
+    "DSS Rule": "If ST-majority village → Prioritize TSP budget schemes"
+  },
+  {
+    "Scheme": "Jal Jeevan Mission (Har Ghar Jal)",
+    "Eligibility": "All rural households, priority to tribal/remote villages",
+    "Source Ministry": "Ministry of Jal Shakti",
+    "Benefits": "Household piped drinking water connection, village infrastructure",
+    "DSS Rule": "If water_access = poor → Suggest Jal Jeevan Mission"
+  },
+  {
+    "Scheme": "MGNREGA",
+    "Eligibility": "All rural households (incl. tribal), with job card",
+    "Source Ministry": "Ministry of Rural Development",
+    "Benefits": "100 days guaranteed wage employment per household",
+    "DSS Rule": "If FRA patta land undeveloped OR unemployment high → Suggest MGNREGA work"
+  },
+  {
+    "Scheme": "PM-KISAN",
+    "Eligibility": "Land-owning farmers incl. FRA patta holders",
+    "Source Ministry": "Ministry of Agriculture & Farmers Welfare",
+    "Benefits": "₹6,000 per year in 3 equal installments to farmers",
+    "DSS Rule": "If FRA patta granted (agricultural land) → Suggest PM-KISAN enrollment"
+  },
+  {
+    "Scheme": "National Health Mission – Tribal Health",
+    "Eligibility": "All tribal villages, women, children",
+    "Source Ministry": "Ministry of Health & Family Welfare",
+    "Benefits": "Free health services, mobile clinics, nutrition programs",
+    "DSS Rule": "If high maternal/child mortality OR poor health index → Suggest NHM tribal package"
+  },
+  {
+    "Scheme": "ST Hostels for Boys & Girls",
+    "Eligibility": "ST students enrolled in schools/colleges",
+    "Source Ministry": "MoTA / State Tribal Welfare",
+    "Benefits": "Free hostel accommodation, food, uniforms",
+    "DSS Rule": "If dropout risk OR distance to school > 5km → Suggest hostel facility"
+  },
+  {
+    "Scheme": "DAJKUA / DAJGUA Convergence",
+    "Eligibility": "FRA title-holders (IFR/CR/CFR)",
+    "Source Ministry": "MoTA + Ministries of Agriculture, Jal Shakti, Rural Development",
+    "Benefits": "Layered support: land development, irrigation, housing, livelihood assets",
+    "DSS Rule": "If FRA patta granted → Layer DAJGUA schemes (land dev, irrigation, housing)"
+  }
+]

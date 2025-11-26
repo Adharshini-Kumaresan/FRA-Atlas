@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "villages",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Suklampatti Kombai", "Nadu": "Kombai Nadu" }, "geometry": { "type": "Point", "coordinates": [ 78.567, 11.257 ] } },
+{ "type": "Feature", "properties": { "Name": "Nadupatti", "Nadu": "Kombai Nadu" }, "geometry": { "type": "Point", "coordinates": [ 78.552, 11.25 ] } },
+{ "type": "Feature", "properties": { "Name": "Kovilpatti (hill)", "Nadu": "Kombai Nadu" }, "geometry": { "type": "Point", "coordinates": [ 78.58, 11.24 ] } },
+{ "type": "Feature", "properties": { "Name": "Murungaiyur", "Nadu": "Kombai Nadu" }, "geometry": { "type": "Point", "coordinates": [ 78.545, 11.265 ] } },
+{ "type": "Feature", "properties": { "Name": "Vannadu", "Nadu": "Vannadu" }, "geometry": { "type": "Point", "coordinates": [ 78.51, 11.23 ] } },
+{ "type": "Feature", "properties": { "Name": "Thenpallipatti", "Nadu": "Vannadu" }, "geometry": { "type": "Point", "coordinates": [ 78.5, 11.22 ] } },
+{ "type": "Feature", "properties": { "Name": "Kallampatti", "Nadu": "Vannadu" }, "geometry": { "type": "Point", "coordinates": [ 78.52, 11.21 ] } },
+{ "type": "Feature", "properties": { "Name": "Irungalur", "Nadu": "Vannadu" }, "geometry": { "type": "Point", "coordinates": [ 78.53, 11.225 ] } },
+{ "type": "Feature", "properties": { "Name": "Thenpuranadu", "Nadu": "Thenpuranadu" }, "geometry": { "type": "Point", "coordinates": [ 78.59, 11.28 ] } },
+{ "type": "Feature", "properties": { "Name": "Keelapatti", "Nadu": "Thenpuranadu" }, "geometry": { "type": "Point", "coordinates": [ 78.6, 11.285 ] } },
+{ "type": "Feature", "properties": { "Name": "Melapatti", "Nadu": "Thenpuranadu" }, "geometry": { "type": "Point", "coordinates": [ 78.585, 11.29 ] } },
+{ "type": "Feature", "properties": { "Name": "Moolakadu", "Nadu": "Thenpuranadu" }, "geometry": { "type": "Point", "coordinates": [ 78.605, 11.295 ] } },
+{ "type": "Feature", "properties": { "Name": "Aathinadu", "Nadu": "Aathinadu" }, "geometry": { "type": "Point", "coordinates": [ 78.62, 11.31 ] } },
+{ "type": "Feature", "properties": { "Name": "Kaliyur", "Nadu": "Aathinadu" }, "geometry": { "type": "Point", "coordinates": [ 78.63, 11.32 ] } },
+{ "type": "Feature", "properties": { "Name": "Pudur (hill)", "Nadu": "Aathinadu" }, "geometry": { "type": "Point", "coordinates": [ 78.615, 11.315 ] } },
+{ "type": "Feature", "properties": { "Name": "Sirumugai", "Nadu": "Aathinadu" }, "geometry": { "type": "Point", "coordinates": [ 78.64, 11.325 ] } }
+]
+}
